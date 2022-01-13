@@ -1,6 +1,6 @@
 # DjangoPokeApi
 
-Esta es una aplicacion raalizada con Python/Django donde consumiremos la Api proporcionada por Pokemon (https://pokeapi.co/)
+Esta es una aplicacion realizada con Python/Django donde consumiremos la Api proporcionada por Pokemon (https://pokeapi.co/)
 
 Al ejecutar la aplicacion obtendran las siguientes imagenes:
 
