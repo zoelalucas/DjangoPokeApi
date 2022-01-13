@@ -7,6 +7,7 @@ Al ejecutar la aplicacion:
 
 
 Deberan cambiar la URL por (http://127.0.0.1:8000/pokemon/ID) donde el ID es el numero del pokenon o su nombre, sino se encuentra el pokemon les retornara a la pagina inicial:
+
 Ejemplo: http://127.0.0.1:8000/pokemon/25
 
 ![image](https://user-images.githubusercontent.com/77742059/149399945-eadc1000-a61a-4e84-bff8-73a37541b7f4.png)
