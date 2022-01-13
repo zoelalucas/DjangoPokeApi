@@ -19,5 +19,5 @@ Ejemplo: http://127.0.0.1:8000/pokemon/raichu
 
 ![image](https://user-images.githubusercontent.com/77742059/149400020-315f3fbc-b520-4002-a190-ae0aa5870452.png)
 
-Podran obtener cualquier tipo de informacion, poderes, evoluciones, tipo de pokemon, descripcion, peso, vida, entre muchos mas. Que estas esperando para crear tu propia pokedex ??
+Podran obtener cualquier tipo de informacion, poderes, evoluciones, tipo de pokemon, descripcion, peso, vida, entre muchos mas. Que estas esperando para crear tu propia pokédex ??
 
